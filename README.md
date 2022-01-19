@@ -37,14 +37,6 @@ Por otro lado, podemos determinar el tipo que va tomar el parámetro `valor: num
 
 Nos es útil sobre todo cuando hagamos una llamada a alguna API de la cual podemos no estar seguros de qué datos nos van a entregar, con esto nos aseguramos de lo que planeamos con alguna función, queremos tomar un `number` que haga algún proceso que nos returne un `number`. Ni más ni menos.
 
-### Otras características
-
-    const user = {
-    	name: 'Carlos',
-    	apellido: 'Gonzalez',
-    	edad: 30
-    }
-
 ### Interfaces
 
 Podemos solucionar problemas de tipos incluso de mejor manera declarando de antemano cómo sería el contenido de casi cualquier cosa, de la siguiente manera:
