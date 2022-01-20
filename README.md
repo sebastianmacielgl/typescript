@@ -10,7 +10,7 @@ Nos proporciona la _seguridad_ de un lenguaje de tipado estático. Esto quiere d
 
 ### Casos prácticos
 
-Un caso muy común, es querer que una variable siempre tenga un tipo de dato, por ejemplo `string`. Es algo que no podemos hacer en vanilla javascript, y es extremadamente útil en casos como el siguiente:
+Un caso muy común, es querer que una variable siempre tenga un tipo de dato, por ejemplo `number`. Es algo que no podemos hacer en vanilla javascript, y es extremadamente útil en casos como el siguiente:
 
     let edad = '22'
 
